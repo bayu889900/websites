@@ -1,3 +1,3 @@
-README.md# websites
+# websites
 Websites for Rikka apps.
 
